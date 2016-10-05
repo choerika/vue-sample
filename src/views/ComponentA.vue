@@ -21,6 +21,6 @@ export default {
 
 .ico-avatar {
   display: block;
-  @include sprite($avatar-1);
+  @include sprite($house);
 }
 </style>

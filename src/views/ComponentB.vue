@@ -10,6 +10,6 @@
 
 .ico-book {
   display: block;
-  @include sprite($book);
+  @include sprite($avatar-1);
 }
 </style>
